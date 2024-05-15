@@ -1,0 +1,35 @@
+@import "font.css";
+
+
+/* root star */
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+:root{
+    --HR400: "HindSiliguri-Regular";
+    --HM500:"HindSiliguri-Medium";
+    --HB700: "HindSiliguri-Bold";
+}
+
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* root end */
+/* *************************************** */
+
+/* header star */
+
+
+
+
+/* header end */
+/* ****************************** */
